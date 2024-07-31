@@ -1,6 +1,9 @@
 Local Horizontal Scaling : 
+
 STEP : 1 - Right Click on "student-service"
+
 STEP : 2 - Run As
+
 STEP : 3 - Run Configurations
 STEP : 4 - (Left Menu) Spring Boot App > student-service > Right Click > New Configuration 
 STEP : 5 - Name      : Type configuration name . Eg : student-service 8084
