@@ -8,7 +8,7 @@ STEP : 3 - Run Configurations
 
 STEP : 4 - (Left Menu) Spring Boot App > demo-service > Right Click > New Configuration 
 
-STEP : 5 - Name      : Type configuration name . Eg : demo-service 8082
+STEP : 5 - Name      : Type configuration name . Eg : demo-service 2
 
 STEP : 6 - Project   : Select project "demo-service"
 
